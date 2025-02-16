@@ -8,6 +8,7 @@ PICOSTATION飞线安装教程
 ![IMG_0389](https://github.com/user-attachments/assets/7e828d00-0372-49da-ba23-1cc0922d9771)
 
 再次提醒，由于RAMA（xStation的开发者，在这个项目中给予了帮助）已提醒可能会修改引脚功能，此安装图可能仅适用于2024/12/10版固件，所以请保留拆除的部件。
+![photo-output](https://github.com/user-attachments/assets/965a1f4f-fd90-405b-9af4-58009d846b40)
 
 
 
