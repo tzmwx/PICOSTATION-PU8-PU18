@@ -1,9 +1,10 @@
 PICOSTATION飞线安装教程
+
 ![IMG_0394](https://github.com/user-attachments/assets/640604df-1547-4295-82c4-81cbd31b93b2)
 
 只是一个安装教程，基于Paulocode和Johnbaumann的2024/12/10版PICOSTATION项目。固件可在Johnbaumann的主页下寻找。
 
-这个教程旨在用最少的零件完成一个ODE项目，已在PU-18late和PU-18测试，目前没有“菜单”功能，只支持一张SD卡一款游戏。
+这个教程旨在用最少的零件完成一个ODE项目，已在PU-18late和PU-18测试，运行正常，未在PU-7测试，在PU-16（SCPH-5903主板，可以使用xStation）测试出现异常。目前没有“菜单”功能，没有游戏镜像选择功能，只支持一张SD卡一款游戏。
 
 ![IMG_0389](https://github.com/user-attachments/assets/7e828d00-0372-49da-ba23-1cc0922d9771)
 
